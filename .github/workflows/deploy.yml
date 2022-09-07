@@ -2,7 +2,7 @@ name: Deploy Multi-container Application
 on:
   push:
     branches:
-      - main
+      - master
  
 jobs:
   build:
